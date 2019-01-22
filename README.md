@@ -2,7 +2,7 @@
 Another comment.
 
 ##Intro
-Adding an intro text.
+Adding an intro text. And adding another text from the rebase-exercise branch.
 
 ##Purpose
 TExt
